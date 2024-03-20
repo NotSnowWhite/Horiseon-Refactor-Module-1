@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Changed all .header(s) to elemental selectors: header. */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,6 +50,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* THE BELOW APPLIES TO THE FOOTER. */
 
 .hero {
     height: 800px;
@@ -188,6 +191,7 @@ p {
     font-size: 36px;
 }
 
+/* THE BELOW APPLIES TO THE FOOTER. */
 footer {
     padding: 30px;
     clear: both;
