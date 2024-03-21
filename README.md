@@ -1,7 +1,10 @@
 # Horiseon-Refactor-Module-1
 
 ## Description
-The first module of the bootcamp is to refactor the code for Horiseon to make it more accessible. The below Acceptance Criteria details what was done to achieve the meeting of accessibility standards: 
+After going to the URL ([HORISEON HOMEPAGE](https://notsnowwhite.github.io/Horiseon-Refactor-Module-1/)), a user will see the navigation (nav) bar in blue-grey at the top of the page. On the left side of the nav bar is the "Horiseon" name in white and beige; to the right are three tabs in white leading to the "Search Engine Optimization,""Online Reputation Management," and "Social Media Marketing," respectively. Immediately below the nav bar is the main image filling the width of the page. 4 people in an office setting reviewing a document: 3 people are sitting and 1 is standing; there are glasses of water in front of each person and 1 also has a laptop. Underneath the main image are 4 blue boxes - 3 wide boxes stacked on top of each other to the right of 1 long box. These boxes should end near the bottom of the page with the long box being slightly longer than the 3 stacked. The first stacked box has a picture to the left and "Search Engine Optimization" to the right in large bold text above a related paragraph. The next box has an image to the right and then "Online Reputation Management" to the left in large bold text above a related paragraph. The 3rd box has an image to the right and "Social Media Marketing" in large bold text to the right above a related paragraph. The last box - the long one to the right of the page - has 3 topics: Lead Generation, Brand Awareness, and Cost Management, each with an icon beneath and a related paragraph. Finally, at the bottom of the page is text stating "Made with <3 by Horiseon" and a copyright tag.
+
+## Details
+The first module of the boot camp is to refactor the code for Horiseon to make it more accessible. The below bullets details what was done to achieve this: 
 - changes were made to the HTML structure and element names; 
 - changes to the CSS structure and class selector names were made; 
 - alt text was added to each image; 
@@ -49,5 +52,6 @@ SO THAT our own site is optimized for search engines
 **WHEN** I view the title element
 **THEN** I find a concise, descriptive title
 
-![Image of the Horiseon website homepage](image.png)
+[WELCOME TO THE HORISEON HOMEPAGE](https://notsnowwhite.github.io/Horiseon-Refactor-Module-1/) 
 
+<video controls src="Recording 2024-03-21 094217.mp4" title="Video of Horiseon's homepage"></video>
