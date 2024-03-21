@@ -1,14 +1,22 @@
+/* || UNIVERSAL SELECTOR */
+
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* || ELEMENTAL SELECTORS */
+
+
 body {
     background-color: #d9dcd6;
 }
 
+/* || HEADER ELEMENT */
+
 /* Changed all .header(s) to elemental selectors: header. */
+
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,11 +55,14 @@ a {
     text-decoration: none;
 }
 
+/* || MAIN, ASIDE ELEMENTS */
 p {
     font-size: 16px;
 }
 
-/* THE BELOW APPLIES TO THE FOOTER. */
+/* || CLASS SELECTORS */
+
+/* || FIGURE ELEMENT */
 
 .hero {
     height: 800px;
@@ -62,21 +73,7 @@ p {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+/* || ASIDE ELEMENT */
 
 .benefits {
     margin-right: 20px;
@@ -137,6 +134,24 @@ p {
     max-width: 150px;
 }
 
+/* || MAIN ELEMENT */
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,7 +206,7 @@ p {
     font-size: 36px;
 }
 
-/* THE BELOW APPLIES TO THE FOOTER. */
+/* || FOOTER ELEMENT */
 footer {
     padding: 30px;
     clear: both;
