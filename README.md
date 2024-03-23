@@ -54,4 +54,4 @@ SO THAT our own site is optimized for search engines
 
 [WELCOME TO THE HORISEON HOMEPAGE](https://notsnowwhite.github.io/Horiseon-Refactor-Module-1/) 
 
-<video controls src="Recording 2024-03-21 094217.mp4" title="Video of Horiseon's homepage"></video>
+![Screenshot of HORISEON HOMEPAGE](./assets/css/Screenshot%202024-03-23%20152557.png)
